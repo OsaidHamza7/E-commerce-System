@@ -19,3 +19,8 @@ ___________________________________________________________
 ![ Screenshot5](Imgs/PlaceItemOnSale.png)
 ## Update User
 ![ Screenshot6](Imgs/UpdateUser.png)
+
+___________________________________________________________
+
+# Contributing
+Contributions to this project are welcome! If you encounter any issues or have suggestions for improvements, please submit a pull request or open an issue on the project repository.
