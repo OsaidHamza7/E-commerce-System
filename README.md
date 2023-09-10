@@ -9,13 +9,13 @@ The individual at the helm of this operation, the E-commerce Administrator, is r
 Meanwhile, the Shopper navigates through the online inventory, exploring and purchasing products from the virtual marketplace.
 ___________________________________________________________
 
-##Menu
+## Menu
 ![ Screenshot1](Imgs/Menu.png)
-##SubMenu
+## SubMenu
 ![ Screenshot2](Imgs/Submenu.png)
-##List All Products
+## List All Products
 ![ Screenshot4](Imgs/ListAllProducts.png)
-##Place Item On Sale
+## Place Item On Sale
 ![ Screenshot5](Imgs/PlaceItemOnSale.png)
-##Update User
+## Update User
 ![ Screenshot6](Imgs/UpdateUser.png)
